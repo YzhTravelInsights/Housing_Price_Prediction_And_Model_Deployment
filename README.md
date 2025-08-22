@@ -106,7 +106,8 @@ pip install -r requirements.txt
 
 ### 数据准备
 
-1. 从Kaggle下载数据集
+1. [从Kaggle下载数据集](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
 2. 将`train.csv`和`test.csv`放入`data/`目录
 
 ### 运行完整流程
