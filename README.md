@@ -87,8 +87,8 @@ Housing_Price_Prediction_And_Model_Deployment/
 
 1. 克隆项目仓库
 ```bash
-git clone <repository-url>
-cd house-price-prediction
+git clone https://github.com/YzhTravelInsights/Housing_Price_Prediction_And_Model_Deployment.git
+cd Housing_Price_Prediction_And_Model_Deployment
 ```
 
 2. 创建虚拟环境（推荐）
